@@ -1,4 +1,3 @@
-#decospam
 
 A simple Python script that makes a POST request to the decomytree site.
 
