@@ -7,5 +7,5 @@ To use this script, you need to obtain your authorization token:
 ![Alt text](screenshot.png)
 3. Navigate to the Network tab and monitor network activity.
 4. Send any message, and you will see something like this.
-![Alt text](screenshot 2.png)
+![Alt text](screenshot2.png)
 6. This is how you can obtain your auth token, which you should then enter into the script.
