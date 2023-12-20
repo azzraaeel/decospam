@@ -18,6 +18,4 @@ Follow these steps to use the script and obtain your authorization token:
 
 5. This screenshot illustrates how to obtain your authorization token.
    
-   ```python
-   # Enter your auth token in the script
-   auth_token = "your_auth_token_here"
+  
