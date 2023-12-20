@@ -7,6 +7,7 @@ To use this script, you need to obtain your authorization token:
   <img src="screenshot.png" alt="Alt text" width="400" />
 </p>
 2. Navigate to the Network tab and monitor network activity.
+
 3. Send any message, and you will see something like this.
 <p align="left">
   <img src="screenshot2.png" alt="Alt text" width="400" />
