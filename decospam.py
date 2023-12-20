@@ -20,7 +20,7 @@ SSS~YSSY      YSSP    YSSP    YSSP~YSSY    S*S    SSS    YSSP~YSSY         S*S
                                                                                     """)
       
 code = input("URL Code:")
-url = "https://deco-my-tree-web.com/api/v1/message/" + (code)
+url = "https://deco-my-tree-web.com/api/v1/message/"{code}"
 name = input("Name:")
 msg = input("Message:")
 auth = input("Authorization Key:")
