@@ -1,6 +1,6 @@
 # DecoSpam Python Script
 
-This Python script facilitates a POST request to the DecomYTree site.
+This Python script facilitates a POST request to the Deco My Tree site.
 
 ## Usage
 
