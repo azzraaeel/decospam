@@ -1,15 +1,23 @@
+# DecoSpam Python Script
 
-A simple Python script that makes a POST request to the decomytree site.
+This Python script facilitates a POST request to the DecomYTree site.
 
-To use this script, you need to obtain your authorization token:
-1. Go to the target site and, while in the send message UI, press F12.
-<p align="left">
-  <img src="screenshot.png" alt="Alt text" width="400" />
-</p>
-2. Navigate to the Network tab and monitor network activity.
+## Usage
 
-3. Send any message, and you will see something like this.
-<p align="left">
-  <img src="screenshot2.png" alt="Alt text" width="400" />
-</p>
-4. This is how you can obtain your auth token, which you should then enter into the script.
+Follow these steps to use the script and obtain your authorization token:
+
+1. Open the target site and access the message sending interface.
+2. Press `F12` to open the browser developer tools.
+   
+   ![Step 2](screenshot.png)
+
+3. Navigate to the `Network` tab and monitor network activity.
+4. Send a test message; you will observe something similar to the following:
+
+   ![Step 4](screenshot2.png)
+
+5. This screenshot illustrates how to obtain your authorization token.
+   
+   ```python
+   # Enter your auth token in the script
+   auth_token = "your_auth_token_here"
