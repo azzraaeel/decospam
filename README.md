@@ -18,4 +18,4 @@ Follow these steps to use the script and obtain your authorization token:
 
 5. This screenshot illustrates how to obtain your authorization token.
    
-  
+# Note: I am not responsible for any harm that may result from the use of this script. It is created for educational purposes only.
